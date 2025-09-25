@@ -3,7 +3,7 @@
 ## 💡 About Me  
 🎓 First-Class BSc Computing (Smart Technologies) Graduate 
 
-🔭 I’m currently working on a personal portfolio website to showcase my projects, skills, and experience — built with a full-stack approach using React, HTML, CSS, and modern web practices — to share my journey with recruiters and connect with other developers.
+🔭 I’m currently building a personal portfolio website to showcase my skills and projects, using a full-stack approach with React, modern web practices, and cloud tools — to share my journey with recruiters and connect with other developers.
 
 🤝 I’m looking to collaborate on open-source projects in AI, cloud, and data engineering.  
 
