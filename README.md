@@ -5,8 +5,11 @@
 🔭 I’m currently working on a personal portfolio website to showcase my projects, skills, and experience — built with a full-stack approach using React, HTML, CSS, and modern web practices — to share my journey with recruiters and connect with other developers.
 
 🤝 I’m looking to collaborate on open-source projects in AI, cloud, and data engineering.  
+
 👐 I’m looking for help with improving my programming knowledge, workflow practices, and Docker setups.  
+
 🌱 I’m currently learning machine learning techniques, cloud-native architectures, and React.
+
 ⚡ Fun fact: I can speak three languages and built a drone using a raspberry pie.
 
 ---
