@@ -1,12 +1,12 @@
-# Hi there 👋 I'm Jack  
+# Hello World 👋 I'm Jack  
 
 ## 💡 About Me  
-🔭 I’m currently working on an AI-powered finance tracker that automates receipt processing and builds smart dashboards.  
+🎓 First-Class BSc Computing (Smart Technologies) Graduate 
+🔭 I’m currently working on a personal portfolio website to showcase my projects, skills, and experience — built with a full-stack approach using React, HTML, CSS, and modern web practices — to share my journey with recruiters and connect with other developers.
 🤝 I’m looking to collaborate on open-source projects in AI, cloud, and data engineering.  
-👐 I’m looking for help with improving my CI/CD workflows and Docker setups.  
-🌱 I’m currently learning advanced machine learning techniques and cloud-native architectures.  
-💬 Ask me about Python, SQL, or how to get started with Azure and Django.  
-⚡ Fun fact: I can speak three languages and once coded a project that ran on a Raspberry Pi robot.  
+👐 I’m looking for help with improving my programming knowledge, workflow practices, and Docker setups.  
+🌱 I’m currently learning machine learning techniques, cloud-native architectures, and React.
+⚡ Fun fact: I can speak three languages and built a drone using a raspberry pie.
 
 ---
 
