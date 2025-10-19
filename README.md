@@ -3,6 +3,7 @@
 ## 💡 About Me  
 🎓 First-Class BSc Computing (Smart Technologies) Graduate  
 🔭 I have built end-to-end tech projects, combining AI/ML, cloud, data engineering, and full-stack development. 
+
 🤝 I’m open to collaborating on projects in AI, cloud, data engineering, and full-stack development.  
 👐 I enjoy learning from others and improving my programming knowledge, workflow practices, and cloud/Docker setups.  
 🌱 Currently exploring advanced machine learning techniques, cloud-native architectures, data pipelines, and modern React practices.   
