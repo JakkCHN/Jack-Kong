@@ -2,23 +2,17 @@
 
 ## 💡 About Me  
 🎓 First-Class BSc Computing (Smart Technologies) Graduate  
-
-🔭 I build end-to-end tech projects, combining AI/ML, cloud, data engineering, and full-stack development. My portfolio includes AI-powered financial platforms, cloud-native systems, IoT projects, and interactive web apps.  
-
-🤝 I’m open to collaborating on open-source projects in AI, cloud, data engineering, and full-stack development.  
-
+🔭 I have built end-to-end tech projects, combining AI/ML, cloud, data engineering, and full-stack development. 
+🤝 I’m open to collaborating on projects in AI, cloud, data engineering, and full-stack development.  
 👐 I enjoy learning from others and improving my programming knowledge, workflow practices, and cloud/Docker setups.  
-
-🌱 Currently exploring advanced machine learning techniques, cloud-native architectures, data pipelines, and modern React practices.  
-
-⚡ Fun fact: I speak English, Cantonese, and Mandarin, and I built a drone using a Raspberry Pi.  
+🌱 Currently exploring advanced machine learning techniques, cloud-native architectures, data pipelines, and modern React practices.   
 
 ---
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-kong-02b73b240)   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackkongjack@gmail.com)  
-[🌐 Portfolio](https://jack-kong03.github.io/Jack-Kong-Portfolio/)  
+[🌐 Live Portfolio](https://jack-kong03.github.io/Jack-Kong-Portfolio/)  
 
 ---
 
