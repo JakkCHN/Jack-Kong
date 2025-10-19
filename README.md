@@ -10,10 +10,16 @@
 ---
 
 ## 🌐 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://jack-kong03.github.io/Jack-Kong-Portfolio/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-kong-02b73b240)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackkongjack@gmail.com)
 
+<a href="https://jack-kong03.github.io/Jack-Kong-Portfolio/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40" height="40" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/jack-kong-02b73b240" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+</a>
+<a href="mailto:jackkongjack@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" width="40" height="40" alt="Email"/>
+</a>
 ---
 
 ## 🛠️ Tech Stack  
